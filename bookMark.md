@@ -12,7 +12,7 @@
 * [聊聊移动端跨平台开发的各种技术](http://fex.baidu.com/blog/2015/05/cross-mobile/)
 * [从游戏脚本语言说起，剖析Mono搭建的脚本基础](http://www.infoq.com/cn/articles/analysis-of-the-script-based-on-mono)
 * [关于平方根倒数速算法](http://my.oschina.net/lmw/blog/366377)
-
+* [《刀塔传奇》主程：我们踩过的那些坑](http://www.touchyouxi.com/research/2014102911120)
 
 ## Haskell
 * [Haskell趣学指南](http://fex.baidu.com/blog/2015/05/cross-mobile/)
@@ -28,3 +28,9 @@
 
 ## "C#"
 * [关于C#是不是脚本语言的问题](http://www.lai18.com/content/1938573.html)
+
+## 算法
+* [十大编程算法助程序员走上高手之路](http://www.techug.com/10-algorithm-help-programmer-grow-up)
+
+## 杂项
+* [程序员需要知道的字符编码知识| 程序师](http://www.techug.com/character-set)
