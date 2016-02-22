@@ -6,7 +6,7 @@
 * [Lua 5.1 参考手册](http://www.codingnow.com/2000/download/lua_manual.html)
 * [Lua CJSON](http://www.kyne.com.au/~mark/software/lua-cjson.php)
 * [Lua 包管理工具 Luarocks 详解](https://segmentfault.com/a/1190000003920034)
-
+* [Lua 随机数生成问题](http://blog.csdn.net/zhangxaochen/article/details/8095007)
 
 ## 引擎
 * [聊聊移动端跨平台开发的各种技术](http://fex.baidu.com/blog/2015/05/cross-mobile/)
@@ -29,6 +29,7 @@
 ## "C#"
 * [关于C#是不是脚本语言的问题](http://www.lai18.com/content/1938573.html)
 
+<<<<<<< HEAD
 ## 算法
 * [十大编程算法助程序员走上高手之路](http://www.techug.com/10-algorithm-help-programmer-grow-up)
 
@@ -38,3 +39,8 @@
 
 ## 电子书
 * [GitBook](https://www.gitbook.com/explore)
+=======
+## 游戏相关
+* [按概率生成随机数](http://blog.csdn.net/slowgrace/article/details/4022632)
+
+>>>>>>> origin/master
