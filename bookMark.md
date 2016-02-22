@@ -29,7 +29,6 @@
 ## "C#"
 * [关于C#是不是脚本语言的问题](http://www.lai18.com/content/1938573.html)
 
-<<<<<<< HEAD
 ## 算法
 * [十大编程算法助程序员走上高手之路](http://www.techug.com/10-algorithm-help-programmer-grow-up)
 
@@ -39,8 +38,7 @@
 
 ## 电子书
 * [GitBook](https://www.gitbook.com/explore)
-=======
+
 ## 游戏相关
 * [按概率生成随机数](http://blog.csdn.net/slowgrace/article/details/4022632)
 
->>>>>>> origin/master
