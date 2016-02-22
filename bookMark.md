@@ -34,3 +34,7 @@
 
 ## 杂项
 * [程序员需要知道的字符编码知识| 程序师](http://www.techug.com/character-set)
+* [看Kinndle](http://kankindle.com/)
+
+## 电子书
+* [GitBook](https://www.gitbook.com/explore)
