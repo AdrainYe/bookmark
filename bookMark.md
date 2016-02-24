@@ -14,6 +14,9 @@
 * [关于平方根倒数速算法](http://my.oschina.net/lmw/blog/366377)
 * [《刀塔传奇》主程：我们踩过的那些坑](http://www.touchyouxi.com/research/2014102911120)
 
+## Unity
+* [DoTween](http://dotween.demigiant.com/)
+
 ## Haskell
 * [Haskell趣学指南](http://fex.baidu.com/blog/2015/05/cross-mobile/)
 
@@ -35,6 +38,7 @@
 ## 杂项
 * [程序员需要知道的字符编码知识| 程序师](http://www.techug.com/character-set)
 * [看Kinndle](http://kankindle.com/)
+* [缓动函数图](http://robertpenner.com/easing/easing_demo.html)
 
 ## 电子书
 * [GitBook](https://www.gitbook.com/explore)
