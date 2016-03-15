@@ -70,3 +70,10 @@
 ## IOS
 * [IOS60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 
+## 临时书签
+* [Cocos-Api](http://api.cocos.com/cn/d2/d1b/classcocos2d_1_1_event_dispatcher.html#a3bec59b6e5c57c3a02e8e4dde0494f1a)
+* [luaJson](http://json.luaforge.net/)
+* [Git_HOME](https://git.oschina.net/amnon/OnHookTexasPoker)
+
+
+
