@@ -13,6 +13,10 @@
 * [从游戏脚本语言说起，剖析Mono搭建的脚本基础](http://www.infoq.com/cn/articles/analysis-of-the-script-based-on-mono)
 * [关于平方根倒数速算法](http://my.oschina.net/lmw/blog/366377)
 * [《刀塔传奇》主程：我们踩过的那些坑](http://www.touchyouxi.com/research/2014102911120)
+* [行为树（Behavior Tree）实践（1）– 基本概念](http://blog.chinaunix.net/xmlrpc.php?id=4389057&r=blog/article&uid=28317825)
+
+## cocos2dx
+* [在 cocos2d-x 中使用多组shader实现多重滤镜](http://zengrong.net/post/2052.htm)
 
 ## Unity
 * [DoTween](http://dotween.demigiant.com/)
@@ -28,6 +32,12 @@
 
 ### Android
 * [NineOldAndroid](http://nineoldandroids.com/)
+* [灵活强大的构建系统Gradle](http://tech.meituan.com/gradle-practice.html)
+* [android-插件](http://www.trinea.cn/android/android-plugin/)
+
+
+### JavaDoc
+* [JavaDoc](http://docs.oracle.com/javase/8/docs/)
 
 ## "C#"
 * [关于C#是不是脚本语言的问题](http://www.lai18.com/content/1938573.html)
@@ -39,10 +49,24 @@
 * [程序员需要知道的字符编码知识| 程序师](http://www.techug.com/character-set)
 * [看Kinndle](http://kankindle.com/)
 * [缓动函数图](http://robertpenner.com/easing/easing_demo.html)
+* [Samy Kamkar--Applied Hacking](https://www.youtube.com/user/s4myk)
+* [WooYun知识库登录](http://drops.wooyun.org/)
 
 ## 电子书
 * [GitBook](https://www.gitbook.com/explore)
+* [Free_Programming_Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
+
 
 ## 游戏相关
 * [按概率生成随机数](http://blog.csdn.net/slowgrace/article/details/4022632)
+
+## 外设
+* [Cherry、Filco 和 Happy Hacking Keyboard 哪个好](https://www.zhihu.com/question/19555837)
+* [机械键盘入坑指南](http://www.jianshu.com/p/aba2b7634bb5)
+
+## Web
+* [Openresty](http://openresty.org/cn/)
+
+## IOS
+* [IOS60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 
