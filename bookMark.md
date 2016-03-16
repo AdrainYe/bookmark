@@ -7,6 +7,7 @@
 * [Lua CJSON](http://www.kyne.com.au/~mark/software/lua-cjson.php)
 * [Lua 包管理工具 Luarocks 详解](https://segmentfault.com/a/1190000003920034)
 * [Lua 随机数生成问题](http://blog.csdn.net/zhangxaochen/article/details/8095007)
+* [如何学习 Lua VM 的源码？](https://www.zhihu.com/question/20617406)
 
 ## 引擎
 * [聊聊移动端跨平台开发的各种技术](http://fex.baidu.com/blog/2015/05/cross-mobile/)
@@ -34,7 +35,7 @@
 * [NineOldAndroid](http://nineoldandroids.com/)
 * [灵活强大的构建系统Gradle](http://tech.meituan.com/gradle-practice.html)
 * [android-插件](http://www.trinea.cn/android/android-plugin/)
-
+* [android 性能优化](https://github.com/lizhaoxuan/Android-performance-norm)
 
 ### JavaDoc
 * [JavaDoc](http://docs.oracle.com/javase/8/docs/)
@@ -56,9 +57,10 @@
 * [GitBook](https://www.gitbook.com/explore)
 * [Free_Programming_Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
 
-
 ## 游戏相关
 * [按概率生成随机数](http://blog.csdn.net/slowgrace/article/details/4022632)
+* [游戏开发最基础的组成元素是什么？](https://www.zhihu.com/question/24913042)
+* [如何在游戏开发领域深入发展?](https://www.zhihu.com/question/33919932)
 
 ## 外设
 * [Cherry、Filco 和 Happy Hacking Keyboard 哪个好](https://www.zhihu.com/question/19555837)
