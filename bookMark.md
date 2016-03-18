@@ -8,6 +8,7 @@
 * [Lua 包管理工具 Luarocks 详解](https://segmentfault.com/a/1190000003920034)
 * [Lua 随机数生成问题](http://blog.csdn.net/zhangxaochen/article/details/8095007)
 * [如何学习 Lua VM 的源码？](https://www.zhihu.com/question/20617406)
+* [luvit](https://luvit.io/)
 
 ## 引擎
 * [聊聊移动端跨平台开发的各种技术](http://fex.baidu.com/blog/2015/05/cross-mobile/)
@@ -76,6 +77,15 @@
 * [Cocos-Api](http://api.cocos.com/cn/d2/d1b/classcocos2d_1_1_event_dispatcher.html#a3bec59b6e5c57c3a02e8e4dde0494f1a)
 * [luaJson](http://json.luaforge.net/)
 * [Git_HOME](https://git.oschina.net/amnon/OnHookTexasPoker)
+* [利用python yielding创建协程将异步编程同步化](http://www.jackyshen.com/2015/05/21/async-operations-in-form-of-sync-programming-with-python-yielding/)
+* [流氓软件终结者2.4](https://liwei2.com/2015/11/27/378.html?utm_source=www.appinn.com)
 
+## Markdown
+* [markdown语法小结](http://www.cnblogs.com/rossoneri/p/4446440.html#_labelTop)
+* [Github Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
+## OpenGL
+* [【OpenGL】OpenGL帧缓存对象(FBO：Frame Buffer Object)](http://blog.csdn.net/xiajun07061225/article/details/7283929)
 
+## AntiGFW
+* [GFW](http://fanqiang.pro/)
