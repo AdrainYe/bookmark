@@ -24,7 +24,7 @@
 * [DoTween](http://dotween.demigiant.com/)
 
 ## Haskell
-* [Haskell趣学指南](http://fex.baidu.com/blog/2015/05/cross-mobile/)
+* [Haskell趣学指南](http://fleurer-lee.com/lyah/)
 
 
 ## Java
@@ -89,3 +89,7 @@
 
 ## AntiGFW
 * [GFW](http://fanqiang.pro/)
+
+## 通信协议
+* [UDP 和 TCP 的 socket 分别一般用在什么地方？](https://www.zhihu.com/question/20060141)
+* [KCP - A Fast and Reliable ARQ Protocol](https://github.com/skywind3000/kcp)
