@@ -89,7 +89,12 @@
 
 ## AntiGFW
 * [GFW](http://fanqiang.pro/)
+* [搬瓦工](http://bandwagonhost.com/index.php)
 
 ## 通信协议
 * [UDP 和 TCP 的 socket 分别一般用在什么地方？](https://www.zhihu.com/question/20060141)
 * [KCP - A Fast and Reliable ARQ Protocol](https://github.com/skywind3000/kcp)
+
+## Linux
+* 安装常用软件
+    - [Ubuntu 14.04 安装 Sublime Text 3](http://jingyan.baidu.com/article/fa4125acb8569b28ac7092ea.html)
