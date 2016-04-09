@@ -37,6 +37,7 @@
 * [灵活强大的构建系统Gradle](http://tech.meituan.com/gradle-practice.html)
 * [android-插件](http://www.trinea.cn/android/android-plugin/)
 * [android 性能优化](https://github.com/lizhaoxuan/Android-performance-norm)
+* [阅读Android源码的一些姿势](http://zhuanlan.zhihu.com/p/20564614)
 
 ### JavaDoc
 * [JavaDoc](http://docs.oracle.com/javase/8/docs/)
