@@ -9,6 +9,8 @@
 * [Lua 随机数生成问题](http://blog.csdn.net/zhangxaochen/article/details/8095007)
 * [如何学习 Lua VM 的源码？](https://www.zhihu.com/question/20617406)
 * [luvit](https://luvit.io/)
+* [Tutorial Directory](http://lua-users.org/wiki/TutorialDirectory)
+* [Tween](https://github.com/kikito/tween.lua/blob/master/tween.lua)
 
 ## 引擎
 * [聊聊移动端跨平台开发的各种技术](http://fex.baidu.com/blog/2015/05/cross-mobile/)
@@ -23,9 +25,12 @@
 ## Unity
 * [DoTween](http://dotween.demigiant.com/)
 
+## love
+* [Love](https://love2d.org/wiki/Main_Page_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
+* [Love Bitbucket](https://bitbucket.org/rude/love)
+
 ## Haskell
 * [Haskell趣学指南](http://fleurer-lee.com/lyah/)
-
 
 ## Java
 
