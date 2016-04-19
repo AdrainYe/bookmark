@@ -43,6 +43,7 @@
 * [android-插件](http://www.trinea.cn/android/android-plugin/)
 * [android 性能优化](https://github.com/lizhaoxuan/Android-performance-norm)
 * [阅读Android源码的一些姿势](http://zhuanlan.zhihu.com/p/20564614)
+* [重新认识activity生命周期](http://souly.cn/%E6%8A%80%E6%9C%AF%E5%8D%9A%E6%96%87/2015/07/01/%E9%87%8D%E6%96%B0%E8%AE%A4%E8%AF%86activity%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
 
 ### JavaDoc
 * [JavaDoc](http://docs.oracle.com/javase/8/docs/)
