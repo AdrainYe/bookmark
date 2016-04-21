@@ -11,6 +11,7 @@
 * [luvit](https://luvit.io/)
 * [Tutorial Directory](http://lua-users.org/wiki/TutorialDirectory)
 * [Tween](https://github.com/kikito/tween.lua/blob/master/tween.lua)
+* [luaJson](http://json.luaforge.net/)
 
 ## 引擎
 * [聊聊移动端跨平台开发的各种技术](http://fex.baidu.com/blog/2015/05/cross-mobile/)
@@ -21,6 +22,7 @@
 
 ## cocos2dx
 * [在 cocos2d-x 中使用多组shader实现多重滤镜](http://zengrong.net/post/2052.htm)
+* [Cocos-Api](http://api.cocos.com/cn/d2/d1b/classcocos2d_1_1_event_dispatcher.html#a3bec59b6e5c57c3a02e8e4dde0494f1a)
 
 ## Unity
 * [DoTween](http://dotween.demigiant.com/)
@@ -81,10 +83,6 @@
 * [IOS60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 
 ## 临时书签
-* [Cocos-Api](http://api.cocos.com/cn/d2/d1b/classcocos2d_1_1_event_dispatcher.html#a3bec59b6e5c57c3a02e8e4dde0494f1a)
-* [luaJson](http://json.luaforge.net/)
-* [Git_HOME](https://git.oschina.net/amnon/OnHookTexasPoker)
-* [利用python yielding创建协程将异步编程同步化](http://www.jackyshen.com/2015/05/21/async-operations-in-form-of-sync-programming-with-python-yielding/)
 * [流氓软件终结者2.4](https://liwei2.com/2015/11/27/378.html?utm_source=www.appinn.com)
 
 ## Markdown
@@ -105,3 +103,8 @@
 ## Linux
 * 安装常用软件
     - [Ubuntu 14.04 安装 Sublime Text 3](http://jingyan.baidu.com/article/fa4125acb8569b28ac7092ea.html)
+
+## Python
+* [简明Python教程](https://wizardforcel.gitbooks.io/a-byte-of-python/content/6.html)
+* [利用python yielding创建协程将异步编程同步化](http://www.jackyshen.com/2015/05/21/async-operations-in-form-of-sync-programming-with-python-yielding/)
+
