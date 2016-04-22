@@ -62,6 +62,7 @@
 * [缓动函数图](http://robertpenner.com/easing/easing_demo.html)
 * [Samy Kamkar--Applied Hacking](https://www.youtube.com/user/s4myk)
 * [WooYun知识库登录](http://drops.wooyun.org/)
+* [StackOverflow 这么大，究竟用在什么硬件设备？](http://blog.jobbole.com/61646/)
 
 ## 电子书
 * [GitBook](https://www.gitbook.com/explore)
@@ -107,4 +108,12 @@
 ## Python
 * [简明Python教程](https://wizardforcel.gitbooks.io/a-byte-of-python/content/6.html)
 * [利用python yielding创建协程将异步编程同步化](http://www.jackyshen.com/2015/05/21/async-operations-in-form-of-sync-programming-with-python-yielding/)
+* [Python语言规范](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/python_language_rules/)
+
+## 游戏性能优化
+* [Cocos2d-x+Lua游戏的优化总结](http://wuzhiwei.net/opitimize_of_cocos2d-x_lua_game/)
+* [Lua脚本性能优化指南](https://github.com/flily/lua-performance/blob/master/Guide.zh.md)
+* [编写高性能的Lua代码](http://wuzhiwei.net/lua_performance/)
+
+
 
