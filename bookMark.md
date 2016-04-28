@@ -12,6 +12,7 @@
 * [Tutorial Directory](http://lua-users.org/wiki/TutorialDirectory)
 * [Tween](https://github.com/kikito/tween.lua/blob/master/tween.lua)
 * [luaJson](http://json.luaforge.net/)
+* [Lua 包管理工具 Luarocks 详解](https://segmentfault.com/a/1190000003920034)
 
 ## 引擎
 * [聊聊移动端跨平台开发的各种技术](http://fex.baidu.com/blog/2015/05/cross-mobile/)
@@ -63,6 +64,7 @@
 * [Samy Kamkar--Applied Hacking](https://www.youtube.com/user/s4myk)
 * [WooYun知识库登录](http://drops.wooyun.org/)
 * [StackOverflow 这么大，究竟用在什么硬件设备？](http://blog.jobbole.com/61646/)
+* [MagicTools](https://github.com/ellisonleao/magictools)
 
 ## 电子书
 * [GitBook](https://www.gitbook.com/explore)
@@ -92,6 +94,7 @@
 
 ## OpenGL
 * [【OpenGL】OpenGL帧缓存对象(FBO：Frame Buffer Object)](http://blog.csdn.net/xiajun07061225/article/details/7283929)
+* [OpenGL 教程](http://learnopengl-cn.readthedocs.io/zh/latest/)
 
 ## AntiGFW
 * [GFW](http://fanqiang.pro/)
@@ -109,11 +112,14 @@
 * [简明Python教程](https://wizardforcel.gitbooks.io/a-byte-of-python/content/6.html)
 * [利用python yielding创建协程将异步编程同步化](http://www.jackyshen.com/2015/05/21/async-operations-in-form-of-sync-programming-with-python-yielding/)
 * [Python语言规范](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/python_language_rules/)
+* [Python 第三方库安装技巧](http://www.jianshu.com/p/9acc85d0ff16)
 
 ## 游戏性能优化
 * [Cocos2d-x+Lua游戏的优化总结](http://wuzhiwei.net/opitimize_of_cocos2d-x_lua_game/)
 * [Lua脚本性能优化指南](https://github.com/flily/lua-performance/blob/master/Guide.zh.md)
 * [编写高性能的Lua代码](http://wuzhiwei.net/lua_performance/)
 
-
-
+## 图片压缩
+* [pngquant](https://pngquant.org/)
+* [使用pngquant来缩小你的APK](http://www.jianshu.com/p/a721fbaa62ab)
+* [TinyPng-Python](https://github.com/saitjr/STTinyPNG-Python)
