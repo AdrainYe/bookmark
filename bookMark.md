@@ -47,6 +47,7 @@
 * [android 性能优化](https://github.com/lizhaoxuan/Android-performance-norm)
 * [阅读Android源码的一些姿势](http://zhuanlan.zhihu.com/p/20564614)
 * [重新认识activity生命周期](http://souly.cn/%E6%8A%80%E6%9C%AF%E5%8D%9A%E6%96%87/2015/07/01/%E9%87%8D%E6%96%B0%E8%AE%A4%E8%AF%86activity%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
+* [安装包立减1M--微信Android资源混淆打包工具](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=208135658&idx=1&sn=ac9bd6b4927e9e82f9fa14e396183a8f#rd)
 
 ### JavaDoc
 * [JavaDoc](http://docs.oracle.com/javase/8/docs/)
@@ -118,8 +119,13 @@
 * [Cocos2d-x+Lua游戏的优化总结](http://wuzhiwei.net/opitimize_of_cocos2d-x_lua_game/)
 * [Lua脚本性能优化指南](https://github.com/flily/lua-performance/blob/master/Guide.zh.md)
 * [编写高性能的Lua代码](http://wuzhiwei.net/lua_performance/)
+* [移动游戏性能优化技术干货分享——CPU篇](http://www.gameres.com/496989.html)
+* [ 游戏性能优化技术干货分享——内存管理](http://www.gameres.com/thread_498560_1_1.html)
 
 ## 图片压缩
 * [pngquant](https://pngquant.org/)
 * [使用pngquant来缩小你的APK](http://www.jianshu.com/p/a721fbaa62ab)
 * [TinyPng-Python](https://github.com/saitjr/STTinyPNG-Python)
+
+## 编译脚本
+* [buckbuild](https://buckbuild.com/setup/quick_start.html)

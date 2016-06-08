@@ -36,4 +36,16 @@ http://www.cnblogs.com/lcw/p/3370639.html
 adb Logcat
 
 http://www.cnblogs.com/yyxt/p/3870236.html
+http://www.jellythink.com/archives/526
 Lua 加载模块
+
+
+
+* 缓存计划表
+[X] 商城
+[O] 好友
+[O] 排行榜
+[X] 房间列表
+[X] 道具
+[X] 礼物
+[-] 活动
