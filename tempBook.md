@@ -40,3 +40,18 @@ http://www.cnblogs.com/orange1438/p/4693470.html
 
 http://www.jianshu.com/p/1290f8e7b326
 
+-- 2016/12/21
+http://wetest.qq.com/lab/view/274.html?from=adsout_qqtips_274&sessionUserType=BFT.PARAMS.205246.TASKID&ADUIN=659400087&ADSESSION=1482297416&ADTAG=CLIENT.QQ.5467_.0&ADPUBNO=26558
+
+https://www.vpser.net/ten-dollars-vps
+
+http://blog.topspeedsnail.com/archives/4793
+
+http://sjq597.github.io/2015/10/25/Ubuntu-14-04-%E5%AE%89%E8%A3%85git/
+
+http://fleurer-lee.com/lyah/introduction.htm
+
+http://www.tanhao.me/code/150911.html/
+
+http://wetest.qq.com/lab/view/20.html
+
